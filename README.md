@@ -1,4 +1,6 @@
-# CollectionBuilder-GH
+# Prova01
+
+Practice for prova01
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
